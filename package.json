@@ -1,7 +1,7 @@
 {
-  "name": "generator-fis3_cil",
-  "version": "0.1.1",
-  "description": "fis3_cil",
+  "name": "generator-fis3_cil_dawning",
+  "version": "0.1.2",
+  "description": "fis3_cil 测试中",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

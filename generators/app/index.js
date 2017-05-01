@@ -13,7 +13,7 @@ var Reactpackage = yeoman.Base.extend({
   generateBasic: function () {  // 按照自己的templates目录自定义
         // this.directory('src', 'src');    //拷贝目录
         // this.copy('package.json', 'package.json');   //拷贝文件
-    this.copy('test.html', 'index.html')
+    this.copy('test.html', 'test.html')
     this.copy('test.less', 'test.less')
   },
   generateClient: function () {
